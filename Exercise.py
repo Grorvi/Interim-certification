@@ -10,7 +10,6 @@
 
 import argparse
 import logging
-import sys
 
 MULTIPLICITY = 50
 TAX_RATE = 0.015
